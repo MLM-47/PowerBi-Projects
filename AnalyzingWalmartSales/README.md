@@ -2,5 +2,49 @@
 
 ## Problem Statement
 This dashboard helps walmart's management to understand their customers better. It helps them know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the which branches are performing better and which ones are not ando also which productlines are doing well and which ones need more marketing. 
+## Steps followed 
+1. Load data into Power BI Desktop, dataset is a csv file.
+2. Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+3. It was observed that in none of the columns errors & empty values were present
+4. In the report view, under the view tab, theme was selected.
+5. Since the data contains various data measurements different visuals were used the visualizations pane in report view.
 
+## Product Analysis questions and Findings:
+# 1.What is the gender distribution by productline?
+- Using the clusteredbar chart to visuliaze, it was observed that;
+- Males were more in: Health&Beauty products, Home& Lifesyle products and Electronic accessories while females were more predominant in Fashion&Accessories,Food&Bevarage and Sports&travel.
+
+# 2.What is the most selling product line?
+- Using the clusteredcolumn chart to visuliaze, it was observed that;
+- Food and bevarage was the most selling product for walmart while health and beauty was the least selling product.
+
+# 3.What is the total revenue by month?
+ - Using the pie chart for visualization it was observed that;
+ - January had the highest revenue of 116.29K accounting for 36.01% of the total revenue while March came in second with a revenue of 109.46K accounting for 33.89% of the total revenue and january had revenue of 97.22K accounting for 30.1% of the total revenue.
+
+# 4.What month had the largest COGS?
+-Using the stacked area chart it was observed that January had the highest COGS of 110,754.16
+
+# 5.What product line had the largest revenue for walmart?
+- Using the clusteredcolumn chart to visuliaze, it was observed that;
+- Food and bevarage was the most selling product for walmart with a revenue of 56,144.84K
+
+# 6.What is the city with the largest revenue for Walmart?
+- Using the line and clusteredcolumn chart to visuliaze, it was observed that;
+- Naypyitaw genereted the highest revenue while Mandalay generated the least revenue for walmart.
+
+# 7.What product line had the largest VAT in Walmart?
+-Using the stacked area chart it was observed that Helath & lifestyle products had the highest VAT of 16.03% while Fashion & accessories products had the least VAT of 14.53%
+
+# 8.What is the average rating of each product line?
+-Using the stacked area chart it was observed that the productline average ratings were as follows:
+-Food&Bevarage 7.11 
+-Fashion&Accessories 7.03
+-Health&Beauty 7.00
+-Electronic accessories 6.92
+-Home& Lifesyle products 6.84
+
+# 9.
+
+-Sports&travel.
 
