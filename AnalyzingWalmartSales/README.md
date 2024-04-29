@@ -62,12 +62,30 @@ This dashboard helps walmart's management to understand their customers better. 
 -Using the card for visualization, it was observed that Walmart had 3 unique payment methods
 
 ## 3. What is the gender distrubution per branch?
--Using the clusteredcolumn chart to visuliaze, it was observed that; 
--Branch A had more males(179) than females(161) 
--Branch B had more males(170) compared to the femlas who were 162 in total 
--Branch C had more females(178) compared to males who were 150 in total
+- Using the clusteredcolumn chart to visuliaze, it was observed that;
+  
+- Branch A had more males(179) than females(161)
+  
+- Branch B had more males(170) compared to the femlas who were 162 in total
+  
+- Branch C had more females(178) compared to males who were 150 in total
 
 ## 4. what time of the day do customers give more ratings?
--Using the stacked column chart to visualize, it was observed that;
--Evenings had the highest number of ratings followed by afternoon while mornings had the least number ratings
+- Using the stacked column chart to visualize, it was observed that;
+  
+- Evenings had the highest number of ratings followed by afternoon while mornings had the least number ratings
 
+## 5. What time of the day do customers give more ratings per branch?
+- Using the clusteredcolumn chart to visuliaze, it was observed that;
+  
+- Branch A and B had more ratings in the evening while Branch C received more artings in the afternoon 
+
+## 6. Which day of the week had the best avg ratings?
+- Using the stacked area chart for visualization it was observed that;
+  
+- Monday had the highest average rating(7.15) while Wednesday had the least average rating(6.81)
+
+## 7. Which day of the week had the best avg ratings per branch?
+- Using the clusteredcolumn chart to visuliaze, it was observed that;
+  
+- Friday was the best rated for both branch A and B while Monday was the best rated for Branch C
