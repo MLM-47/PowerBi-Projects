@@ -11,37 +11,37 @@ This dashboard helps walmart's management to understand their customers better. 
 
 # Product Analysis questions and Findings:
 ## 1.What is the gender distribution by productline?
-- Using the clusteredbar chart to visuliaze, it was observed that;
-- Males were more in: Health&Beauty products, Home& Lifesyle products and Electronic accessories while females were more predominant in Fashion&Accessories,Food&Bevarage and Sports&travel.
+Using the clusteredbar chart to visuliaze, it was observed that; Males were more in: Health&Beauty products, Home& Lifesyle products and Electronic accessories while females were more predominant in Fashion&Accessories,Food&Bevarage and Sports&travel.
 
 ## 2.What is the most selling product line?
-- Using the clusteredcolumn chart to visuliaze, it was observed that;
-- Food and bevarage was the most selling product for walmart while health and beauty was the least selling product.
+Using the clusteredcolumn chart to visuliaze, it was observed that; Food and bevarage was the most selling product for walmart while health and beauty was the least selling product.
 
 ## 3.What is the total revenue by month?
- - Using the pie chart for visualization it was observed that;
+Using the pie chart for visualization it was observed that;
  - January had the highest revenue of 116.29K accounting for 36.01% of the total revenue while March came in second with a revenue of 109.46K accounting for 33.89% of the total revenue and january had revenue of 97.22K accounting for 30.1% of the total revenue.
 
 ## 4.What month had the largest COGS?
--Using the stacked area chart it was observed that January had the highest COGS of 110,754.16
+Using the stacked area chart it was observed that; January had the highest COGS of 110,754.16
 
 ## 5.What product line had the largest revenue for walmart?
-- Using the clusteredcolumn chart to visuliaze, it was observed that;
-- Food and bevarage was the most selling product for walmart with a revenue of 56,144.84K
+Using the clusteredcolumn chart to visuliaze, it was observed that; Food and bevarage was the most selling product for walmart with a revenue of 56,144.84K
 
 ## 6.What is the city with the largest revenue for Walmart?
-- Using the line and clusteredcolumn chart to visuliaze, it was observed that;
-- Naypyitaw genereted the highest revenue while Mandalay generated the least revenue for walmart.
+Using the line and clusteredcolumn chart to visuliaze, it was observed that; Naypyitaw genereted the highest revenue while Mandalay generated the least revenue for walmart.
 
 ## 7.What product line had the largest VAT in Walmart?
--Using the stacked area chart it was observed that Helath & lifestyle products had the highest VAT of 16.03% while Fashion & accessories products had the least VAT of 14.53%
+Using the stacked area chart it was observed that Helath & lifestyle products had the highest VAT of 16.03% while Fashion & accessories products had the least VAT of 14.53%
 
 ## 8.What is the average rating of each product line?
--Using the stacked area chart it was observed that the productline average ratings were as follows:
+Using the stacked area chart it was observed that the productline average ratings were as follows:
 -Food&Bevarage 7.11 
+
 -Fashion&Accessories 7.03
+
 -Health&Beauty 7.00
+
 -Electronic accessories 6.92
+
 -Home& Lifesyle products 6.84
 
 # Sales Analysis questions and Findings:
