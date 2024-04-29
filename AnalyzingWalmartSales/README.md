@@ -46,23 +46,23 @@ This dashboard helps walmart's management to understand their customers better. 
 
 # Sales Analysis questions and Findings:
 ## 1. Which customer type brings the most sales?
--Using the stacked column chart it was observed that members generated more revenue as compare to normal customers. Mmebers generated 164,223.44% of the total revenue while normal customers generated 158,743.30 $ of the total revenue. 
+Using the stacked column chart it was observed that members generated more revenue as compare to normal customers. Mmebers generated 164,223.44% of the total revenue while normal customers generated 158,743.30 $ of the total revenue. 
 
 ## 2. Which city has the highest VAT? 
--Using the treemap, it was observed that Nayptyitaw had the highest VAT of 16.05% followed by Mandalay with a VAT of 15.23% and Yangon had the least VAT of 14.87%
+Using the treemap, it was observed that Nayptyitaw had the highest VAT of 16.05% followed by Mandalay with a VAT of 15.23% and Yangon had the least VAT of 14.87%
 
 ## 3. Which customer type pays the highest VAT?
--Using the area chart, it was observed that member customer paid the highest VAT(15.61) while normal customers paid the least VAT of (15.15)
+Using the area chart, it was observed that member customer paid the highest VAT(15.61) while normal customers paid the least VAT of (15.15)
 
 # Customer Analysis questions and Findings:
 ## 1. How many unique customer types does the data have?
--Using the card for visualization, it was observed that Walmart had 2 unique customer types 
+Using the card for visualization, it was observed that Walmart had 2 unique customer types 
 
 ## 2. How many unique payment methods does the data have?
--Using the card for visualization, it was observed that Walmart had 3 unique payment methods
+Using the card for visualization, it was observed that Walmart had 3 unique payment methods
 
 ## 3. What is the gender distrubution per branch?
-- Using the clusteredcolumn chart to visuliaze, it was observed that;
+Using the clusteredcolumn chart to visuliaze, it was observed that;
   
 - Branch A had more males(179) than females(161)
   
@@ -71,21 +71,21 @@ This dashboard helps walmart's management to understand their customers better. 
 - Branch C had more females(178) compared to males who were 150 in total
 
 ## 4. what time of the day do customers give more ratings?
-- Using the stacked column chart to visualize, it was observed that;
+Using the stacked column chart to visualize, it was observed that;
   
-- Evenings had the highest number of ratings followed by afternoon while mornings had the least number ratings
+- Evenings had the highest number of ratings followed by afternoon while mornings had the least number of ratings
 
 ## 5. What time of the day do customers give more ratings per branch?
-- Using the clusteredcolumn chart to visuliaze, it was observed that;
+Using the clusteredcolumn chart to visuliaze, it was observed that;
   
 - Branch A and B had more ratings in the evening while Branch C received more artings in the afternoon 
 
 ## 6. Which day of the week had the best avg ratings?
-- Using the stacked area chart for visualization it was observed that;
+Using the stacked area chart for visualization it was observed that;
   
 - Monday had the highest average rating(7.15) while Wednesday had the least average rating(6.81)
 
 ## 7. Which day of the week had the best avg ratings per branch?
-- Using the clusteredcolumn chart to visuliaze, it was observed that;
+Using the clusteredcolumn chart to visuliaze, it was observed that;
   
 - Friday was the best rated for both branch A and B while Monday was the best rated for Branch C
