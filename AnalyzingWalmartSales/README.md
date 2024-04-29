@@ -44,5 +44,30 @@ This dashboard helps walmart's management to understand their customers better. 
 -Electronic accessories 6.92
 -Home& Lifesyle products 6.84
 
+# Sales Analysis questions and Findings:
+## 1. Which customer type brings the most sales?
+-Using the stacked column chart it was observed that members generated more revenue as compare to normal customers. Mmebers generated 164,223.44% of the total revenue while normal customers generated 158,743.30 $ of the total revenue. 
 
+## 2. Which city has the highest VAT? 
+-Using the treemap, it was observed that Nayptyitaw had the highest VAT of 16.05% followed by Mandalay with a VAT of 15.23% and Yangon had the least VAT of 14.87%
+
+## 3. Which customer type pays the highest VAT?
+-Using the area chart, it was observed that member customer paid the highest VAT(15.61) while normal customers paid the least VAT of (15.15)
+
+# Customer Analysis questions and Findings:
+## 1. How many unique customer types does the data have?
+-Using the card for visualization, it was observed that Walmart had 2 unique customer types 
+
+## 2. How many unique payment methods does the data have?
+-Using the card for visualization, it was observed that Walmart had 3 unique payment methods
+
+## 3. What is the gender distrubution per branch?
+-Using the clusteredcolumn chart to visuliaze, it was observed that; 
+-Branch A had more males(179) than females(161) 
+-Branch B had more males(170) compared to the femlas who were 162 in total 
+-Branch C had more females(178) compared to males who were 150 in total
+
+## 4. what time of the day do customers give more ratings?
+-Using the stacked column chart to visualize, it was observed that;
+-Evenings had the highest number of ratings followed by afternoon while mornings had the least number ratings
 
