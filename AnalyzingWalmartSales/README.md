@@ -95,3 +95,10 @@ Using the stacked area chart for visualization it was observed that;
 Using the clusteredcolumn chart to visuliaze, it was observed that;
   
 - Friday was the best rated for both branch A and B while Monday was the best rated for Branch C
+
+## 8. What is the gender of the most customers 
+Using the stacked column chart to visualize, it was observed that;
+
+- Females were more(501) as compoares to males who were 499 in total 
+
+
